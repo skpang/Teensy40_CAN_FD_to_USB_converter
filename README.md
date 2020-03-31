@@ -89,13 +89,13 @@ Data length for CAN FD
 
 0 to 8   As in CAN 2.0
 
-9  12 bytes
-A  16 bytes
-B  20 bytes
-C  24 bytes
-D  32 bytes
-E  48 bytes
-F  64 bytes
+9  12 bytes<br>
+A  16 bytes<br>
+B  20 bytes<br>
+C  24 bytes<br>
+D  32 bytes<br>
+E  48 bytes<br>
+F  64 bytes<br>
 
 
 V Get hardware version
