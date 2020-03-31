@@ -3,6 +3,9 @@
 For use with Teensy4.0 CAN FD to USB board
 http://skpang.co.uk/catalog/teensy-40-can-fd-to-usb-converter-p-1588.html
 
+NOTE: The FlexCAN_T4 library would need to modifiy first.
+In FlexCAN_T4FD.tpp file line 761 onward comment out all the Serial.print lines.
+
 ASCII Commands
 
 Example: Set the bitrate to 500k then open the port<br>
