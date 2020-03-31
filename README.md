@@ -27,7 +27,7 @@ C Close CAN channel
 
 Sx Set baudrate
 
-x: Bitrate id (0-8)
+x: Bitrate id (4-M)
 
 
 S4 = 125k<br>
