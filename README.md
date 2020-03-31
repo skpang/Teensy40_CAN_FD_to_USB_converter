@@ -5,7 +5,7 @@ http://skpang.co.uk/catalog/teensy-40-can-fd-to-usb-converter-p-1588.html
 
 ASCII Commands
 
-Example: Open the CAN port at the default rate of 500k/2M. 
+Example: Open the CAN port at the default rate of 500k/2000k. 
 O[CR]<br>
 t001411223344[CR]
 
@@ -28,20 +28,20 @@ x: Bitrate id (0-8)
 
 S4 = 125k<br>
 S5 = 250k<br>
-S6 = 500k
-S8 = 1000k
-S9 = 1000k/2000k 
-SB = 1000k/4000k 
-SC = 1000k/5000k 
-SD = 1000k/6000k 
-SE = 1000k/8000k 
-SF = 1000k/10000k 
-SH = 500k/2000k 
-SI = 500k/3000k
-SJ = 500k/4000k
-SK = 500k/5000k 
-SL = 500k/6000k 
-SM = 500k/8000k 
+S6 = 500k<br>
+S8 = 1000k<br>
+S9 = 1000k/2000k<br> 
+SB = 1000k/4000k<br> 
+SC = 1000k/5000k<br> 
+SD = 1000k/6000k<br> 
+SE = 1000k/8000k<br> 
+SF = 1000k/10000k<br> 
+SH = 500k/2000k<br> 
+SI = 500k/3000k<br>
+SJ = 500k/4000k<br>
+SK = 500k/5000k<br> 
+SL = 500k/6000k<br> 
+SM = 500k/8000k<br>
     
 
 tiiildd
