@@ -25,30 +25,24 @@ Sx Set baudrate
 
 x: Bitrate id (0-8)
 
-S0 = 10 k
-S1 = 20 k
-S2 = 50 k
-S3 = 100 k
+
 S4 = 125 k
 S5 = 250 k
 S6 = 500 k
-S7 = 800 k
 S8 = 1 M
-S9 = 500k/1M 
-SA = 500k/2M 
-SB = 500k/3M 
-SC = 500k/4M 
-SD = 500k/5M 
-SE = 500k/8M 
-SF = 500k/10M 
-SG = 250k/500k 
-SH = 250k/1M 
-SI = 250k/2M
-SJ = 250k/3M
-SK = 250k/4M 
-SL = 1000k/4M 
-SM = 1000k/8M 
-SN = 125k/500k     
+S9 = 1000k/2000k 
+SB = 1000k/4000k 
+SC = 1000k/5000k 
+SD = 1000k/6000k 
+SE = 1000k/8000k 
+SF = 1000k/10000k 
+SH = 500k/2000k 
+SI = 500k/3000k
+SJ = 500k/4000k
+SK = 500k/5000k 
+SL = 500k/6000k 
+SM = 500k/8000k 
+    
 
 tiiildd
 
