@@ -97,7 +97,7 @@ void set_baudrate(CAN_BITTIME_SETUP baudrate)
         break;
       
       case CAN_1000K_4M:
-        config.baudrate =   1000000;  // S9
+        config.baudrate =   1000000;  // SB
         config.baudrateFD = 4000000;
         break; 
 
